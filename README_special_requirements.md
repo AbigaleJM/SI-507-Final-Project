@@ -12,6 +12,9 @@ this project, the concepts behind the project are outlined in further README.md 
 ---
 The code in its current state does not run as intended. Use function calls and print statements
 to obtain some output.
+Script.py contains the main code for the program
+ORCiD.py contains the XML exploration and parsing of the ORCiD Public Data Files
+history_books.json is the JSON file of Google history books metadata
 
 **Required Packages**
 ---
