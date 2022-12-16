@@ -1,6 +1,6 @@
 # README for Data Structures
 ## Description of Data Structures
----
+
 **Graph**
 Ideally, the graph for this project would be constructed with data from the Google Books and ORCiD API's. The graph would be weighted, and each title would 
 serve as a node while the authors would serve as the edges. The more books that had been written by the same academics, the higher weight between them. 
