@@ -18,3 +18,4 @@ to obtain some output.
 * xml.etree.ElementTree as ET: https://docs.python.org/3/library/xml.etree.elementtree.html 
 * webbrowser: https://docs.python.org/3/library/webbrowser.html 
 * API Key for Google Books is also required: https://developers.google.com/books/docs/v1/using
+* ORCiD Public Data FIle 2022 XML Works Download: https://orcid.figshare.com/articles/dataset/ORCID_Public_Data_File_2022/21220892
